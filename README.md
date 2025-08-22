@@ -1,2 +1,3 @@
-# beastmaster
-macam membela, tapi bukan khurafat.
+# BEASTMASTER
+
+- baru ada 6 makhluk. more to come.
