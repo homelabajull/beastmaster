@@ -3,12 +3,12 @@
 A collection of command-line **beasts** to help tame your filesystem.
 Each beast has its own ability:
 
-* 🧜 **Duyung** — Pretty-print a directory tree
-* 🐅 **Harimau** — Smart file finder (glob, regex, filters)
-* 🪱 **Cacing-pita** — Copy files by name/extension into a target folder
-* 🐂 **Seladang** — Copy or move arbitrary files to a target folder
-* 🐊 **Buaya** — Report largest files/dirs (disk usage)
-* 🦣 **Tapir** — Compute or verify SHA256 checksums
+* **Duyung** — Pretty-print a directory tree
+* **Harimau** — Smart file finder (glob, regex, filters)
+* **Cacing-pita** — Copy files by name/extension into a target folder
+* **Seladang** — Copy or move arbitrary files to a target folder
+* **Buaya** — Report largest files/dirs (disk usage)
+* **Tapir** — Compute or verify SHA256 checksums
 
 ---
 
