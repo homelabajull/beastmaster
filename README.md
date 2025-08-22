@@ -1,7 +1,7 @@
 # 🐾 Beastmaster
 
-A collection of command-line **beasts** to help tame your filesystem.
-Each beast has its own ability:
+A collection of pet **beasts**. No worries. Its neither wild beasts nor djinns.
+Summon at your own risks:
 
 * **Duyung** — Pretty-print a directory tree
 * **Harimau** — Smart file finder (glob, regex, filters)
